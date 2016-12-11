@@ -1,0 +1,12 @@
+---
+# Welcome to CustomLogger's config
+
+# Choose here if the logger should log debug...
+Log_debug: true
+
+# ... And here how should the logger look
+LoggerLook: "{color-b}[{time}] §r{color}{prefixLower}{color-6} > {color}{message}"
+
+# Choose here how should be the prefix before you enter commands.
+LoggerPrefix: "{color-6}> {color-e}"
+...

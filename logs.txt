@@ -1,0 +1,775 @@
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 
+2016-12-10 [18:39:14] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-10 [18:39:14] info > Loading source plugin Execute v1
+2016-12-10 [18:39:14] info > Loading source plugin PluginerCore v1
+2016-12-10 [18:39:14] info > Loading source plugin SignChanger v1
+2016-12-10 [18:39:14] info > Loading source plugin SkriptPE v1
+2016-12-10 [18:39:14] info > Loading source plugin WorldTP v1.0.7
+2016-12-10 [18:39:14] info > Loading source plugin YoutubeSigns v1
+2016-12-10 [18:39:14] info > Loading source plugin GrabBag v2.5.0
+2016-12-10 [18:39:14] info > Loading source plugin MyPlot v1
+2016-12-10 [18:39:14] info > Enabling DevToolsModified v1.10.0
+2016-12-10 [18:39:14] info > Enabling MyPlot v1
+2016-12-10 [18:39:36] info > Enabling CodeBlocks v1
+2016-12-10 [18:39:36] info > Enabling CommandBlocks v1.1.1
+2016-12-10 [18:39:36] info > Enabling CustomLogger v1
+2016-12-10 [18:39:36] info > Enabling Execute v1
+2016-12-10 [18:39:36] info > Enabling PluginerCore v1
+2016-12-10 [18:39:36] info > Enabling SignChanger v1
+2016-12-10 [18:39:36] info > Enabling SkriptPE v1
+2016-12-10 [18:39:36] info > Enabling WorldTP v1.0.7
+2016-12-10 [18:39:36] info > Enabling YoutubeSigns v1
+2016-12-10 [18:39:36] info > Enabling GrabBag v2.5.0
+2016-12-10 [18:39:42] info > --- Showing help page 1 of 1 (/help <page>) ---
+2016-12-10 [18:39:42] info > //cancel: stop action
+2016-12-10 [18:39:42] info > //cut: Remove the selected area
+2016-12-10 [18:39:42] info > //desel: Delete pos selected
+2016-12-10 [18:39:42] info > //editwand: Change the wand id !
+2016-12-10 [18:39:42] info > //limit: Limit the amount of block
+2016-12-10 [18:39:42] info > //replace: Replace id1 by id2
+2016-12-10 [18:39:42] info > //set: Fill within the range
+2016-12-10 [18:39:42] info > //undo: Cancel Last action
+2016-12-10 [18:39:42] info > //wand: Give you the Word édit wand ( like PC )
+2016-12-10 [18:39:42] info > /afk: away from keyboard
+2016-12-10 [18:39:42] info > /after: schedule to run a command after x seconds
+2016-12-10 [18:39:42] info > /alias: Create a command alias
+2016-12-10 [18:39:42] info > /as: execute command as somebody else
+2016-12-10 [18:39:42] info > /at: schedule to run a command at a certain time
+2016-12-10 [18:39:42] info > /back: returns to the place of demise
+2016-12-10 [18:39:42] info > /ban: Prevents the specified player from using this server
+2016-12-10 [18:39:42] info > /ban-ip: Prevents the specified IP address from using this server
+2016-12-10 [18:39:42] info > /banlist: View all players banned from this server
+2016-12-10 [18:39:42] info > /blowup: Explode a player
+2016-12-10 [18:39:42] info > /burn: Set player on fire
+2016-12-10 [18:39:42] info > /changecodeblock: Change the code of a CodeBlock
+2016-12-10 [18:39:42] info > /chat-off: stops chat
+2016-12-10 [18:39:42] info > /chat-on: starts chat
+2016-12-10 [18:39:42] info > /checkperm: Checks a permission value for the current sender, or a player
+2016-12-10 [18:39:42] info > /clearchat: clears your chat window
+2016-12-10 [18:39:42] info > /clearhotbar: Clear player's hotbar
+2016-12-10 [18:39:42] info > /clearinv: Clear player's inventory
+2016-12-10 [18:39:42] info > /cmdblock: Get help about cmd blocks
+2016-12-10 [18:39:42] info > /crash: manage crash files
+2016-12-10 [18:39:42] info > /createpl: Create a plugin base
+2016-12-10 [18:39:42] info > /defaultgamemode: Set the default gamemode
+2016-12-10 [18:39:42] info > /deop: Takes the specified player's operator status
+2016-12-10 [18:39:42] info > /difficulty: Sets the game difficulty
+2016-12-10 [18:39:42] info > /dismiss: Dismisses summoned players
+2016-12-10 [18:39:42] info > /echo: display text
+2016-12-10 [18:39:42] info > /effect: Adds/Removes effects on players
+2016-12-10 [18:39:42] info > /enchant: Adds enchantments on items
+2016-12-10 [18:39:42] info > /entities: Manage entities
+2016-12-10 [18:39:42] info > /execute: Execute commands as (an) another(s) player(s).
+2016-12-10 [18:39:42] info > /expand: display text with variable expansion
+2016-12-10 [18:39:42] info > /extractplugin: Extracts the source code from a Phar plugin
+2016-12-10 [18:39:42] info > /fixit: Fix item held
+2016-12-10 [18:39:42] info > /follow: pursue a player
+2016-12-10 [18:39:42] info > /follow-off: stop following a player
+2016-12-10 [18:39:42] info > /followers: List leads and followers
+2016-12-10 [18:39:42] info > /followme: drag player with you
+2016-12-10 [18:39:42] info > /followme-off: stop dragging a player
+2016-12-10 [18:39:42] info > /freeze: freeze player
+2016-12-10 [18:39:42] info > /gamemode: Changes the player to a specific game mode
+2016-12-10 [18:39:42] info > /get: Shortcut to /give me
+2016-12-10 [18:39:42] info > /gift: Alternate /give implementation
+2016-12-10 [18:39:42] info > /give: Gives the specified player a certain amount of items
+2016-12-10 [18:39:42] info > /gma: switch gamemode to adventure
+2016-12-10 [18:39:42] info > /gmc: switch gamemode to creative
+2016-12-10 [18:39:42] info > /gms: switch gamemode to survival
+2016-12-10 [18:39:42] info > /gmspc: switch gamemode to spectator
+2016-12-10 [18:39:42] info > /heal: heal player
+2016-12-10 [18:39:42] info > /help: Shows the help menu
+2016-12-10 [18:39:42] info > /invis: makes player invisible
+2016-12-10 [18:39:42] info > /iteminfo: Get info on held item
+2016-12-10 [18:39:42] info > /kick: Removes the specified player from the server
+2016-12-10 [18:39:42] info > /kill: Commit suicide or kill other players
+2016-12-10 [18:39:42] info > /list: Lists all online players
+2016-12-10 [18:39:42] info > /log: enables server logging
+2016-12-10 [18:39:42] info > /makeplugin: Creates a Phar plugin from one in source code form
+2016-12-10 [18:39:42] info > /makeserver: Creates a PocketMine-MP Phar
+2016-12-10 [18:39:42] info > /me: Performs the specified action in chat
+2016-12-10 [18:39:42] info > /mentions: Mentions main command
+2016-12-10 [18:39:42] info > /mute: mute player
+2016-12-10 [18:39:42] info > /myalerts: See all your alerts
+2016-12-10 [18:39:42] info > /near: show nearby players
+2016-12-10 [18:39:42] info > /nick: change displayed name
+2016-12-10 [18:39:42] info > /op: Gives the specified player operator status
+2016-12-10 [18:39:42] info > /opms: Send message to ops
+2016-12-10 [18:39:42] info > /ops: show ops and their on-line status
+2016-12-10 [18:39:42] info > /pardon: Allows the specified player to use this server
+2016-12-10 [18:39:42] info > /pardon-ip: Allows the specified IP address to use this server
+2016-12-10 [18:39:42] info > /particle: Adds particles to a world
+2016-12-10 [18:39:42] info > /perm: change permissions
+2016-12-10 [18:39:42] info > /players: show players connected and locations
+2016-12-10 [18:39:42] info > /plenty: Make sure that player does not run out of stuff
+2016-12-10 [18:39:42] info > /plot: Claim and manage your plots
+2016-12-10 [18:39:42] info > /pluginmgr: manage plugins
+2016-12-10 [18:39:42] info > /plugins: Gets a list of plugins running on the server
+2016-12-10 [18:39:42] info > /poptp: Returns to previously saved coordinates
+2016-12-10 [18:39:42] info > /prefix: Execute commands with prefix inserted
+2016-12-10 [18:39:42] info > /pushtp: Save your current position when teleporting
+2016-12-10 [18:39:42] info > /query: Query servers
+2016-12-10 [18:39:42] info > /rc: Runs the given PMScript
+2016-12-10 [18:39:42] info > /rcon: RCON client
+2016-12-10 [18:39:42] info > /reg: manage player registrations
+2016-12-10 [18:39:42] info > /reload: Reloads the server configuration and plugins
+2016-12-10 [18:39:42] info > /rem: don't display text
+2016-12-10 [18:39:42] info > /reop: Temporarily deops administrators
+2016-12-10 [18:39:42] info > /rminv: Remove item from player's inventory
+2016-12-10 [18:39:42] info > /rmvip: Take the vip from someone
+2016-12-10 [18:39:42] info > /rpt: Report issues to ops
+2016-12-10 [18:39:42] info > /save-all: Saves the server to disk
+2016-12-10 [18:39:42] info > /save-off: Disables server autosaving
+2016-12-10 [18:39:42] info > /save-on: Enables server autosaving
+2016-12-10 [18:39:42] info > /say: Broadcasts the given message as the sender
+2016-12-10 [18:39:42] info > /seearmor: show player's armor
+2016-12-10 [18:39:42] info > /seed: Shows the world seed
+2016-12-10 [18:39:42] info > /seeinv: show player's inventory
+2016-12-10 [18:39:42] info > /servers: Manage server lists
+2016-12-10 [18:39:42] info > /servicemode: Enter/Exit servicemode
+2016-12-10 [18:39:42] info > /setarmor: Set armor (even in creative)
+2016-12-10 [18:39:42] info > /setlang: Change your language.
+2016-12-10 [18:39:42] info > /setvip: Make a person VIP
+2016-12-10 [18:39:42] info > /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2016-12-10 [18:39:42] info > /shield: makes player invulnerable
+2016-12-10 [18:39:42] info > /showtimings: Show timings data (see /timings)
+2016-12-10 [18:39:42] info > /signchange: Change sign line's text !
+2016-12-10 [18:39:42] info > /slay: kill a player with optional message
+2016-12-10 [18:39:42] info > /spawn: Teleport to spawn location
+2016-12-10 [18:39:42] info > /spawnpoint: Sets a player's spawn point
+2016-12-10 [18:39:42] info > /spy: spy on player in-game
+2016-12-10 [18:39:42] info > /stop: Stops the server
+2016-12-10 [18:39:42] info > /summon: Teleports players to your location
+2016-12-10 [18:39:42] info > /superflat: Main CustomSuperflat command !
+2016-12-10 [18:39:42] info > /t: TapToDo command!
+2016-12-10 [18:39:42] info > /tell: Sends a private message to the given player
+2016-12-10 [18:39:42] info > /thaw: thaw player
+2016-12-10 [18:39:42] info > /throw: Throw player up in the air
+2016-12-10 [18:39:42] info > /time: Changes the time on each world
+2016-12-10 [18:39:42] info > /timings: Records timings to see performance of the server.
+2016-12-10 [18:39:42] info > /top: Teleport player to top most block
+2016-12-10 [18:39:42] info > /tp: Teleports the given player (or yourself) to another player or coordinates
+2016-12-10 [18:39:42] info > /tr: Remote block managment
+2016-12-10 [18:39:42] info > /unmute: unmute player
+2016-12-10 [18:39:42] info > /version: Gets the version of this server including any plugins in use
+2016-12-10 [18:39:42] info > /viptp: Teleport VIP players to a location, if not VIP, teleport to an another location.
+2016-12-10 [18:39:42] info > /vipworldtp: TP a VIP to an another world
+2016-12-10 [18:39:42] info > /wall: display text
+2016-12-10 [18:39:42] info > /whitelist: Manages the list of players allowed to use this server
+2016-12-10 [18:39:42] info > /whois: show players detail info
+2016-12-10 [18:39:42] info > /worldtp: WorldTP Main Command
+2016-12-10 [18:39:42] info > /xyz: displays location and bearing
+2016-12-10 [18:48:58] info > [CONSOLE: Stopping the server]
+2016-12-10 [18:48:58] info > Disabling CodeBlocks v1
+2016-12-10 [18:48:58] info > Disabling CommandBlocks v1.1.1
+2016-12-10 [18:48:58] info > Disabling CustomLogger v1
+2016-12-10 [18:48:58] info > Disabling DevToolsModified v1.10.0
+2016-12-10 [18:48:58] info > Disabling Execute v1
+2016-12-10 [18:48:58] info > Disabling PluginerCore v1
+2016-12-10 [18:48:58] info > Disabling SignChanger v1
+2016-12-10 [18:48:58] info > Disabling SkriptPE v1
+2016-12-10 [18:48:58] info > Disabling WorldTP v1.0.7
+2016-12-10 [18:48:58] info > Disabling YoutubeSigns v1
+2016-12-10 [18:48:58] info > Disabling GrabBag v2.5.0
+2016-12-10 [18:48:58] info > Disabling MyPlot v1
+2016-12-10 [18:56:14] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-10 [18:56:14] info > Loading source plugin Execute v1
+2016-12-10 [18:56:14] info > Loading source plugin PluginerCore v1
+2016-12-10 [18:56:14] info > Loading source plugin SignChanger v1
+2016-12-10 [18:56:14] info > Loading source plugin SkriptPE v1
+2016-12-10 [18:56:15] info > Loading source plugin WorldTP v1.0.7
+2016-12-10 [18:56:15] info > Loading source plugin YoutubeSigns v1
+2016-12-10 [18:56:15] info > Loading source plugin GrabBag v2.5.0
+2016-12-10 [18:56:15] info > Loading source plugin MyPlot v1
+2016-12-10 [18:56:15] info > Enabling DevToolsModified v1.10.0
+2016-12-10 [18:56:15] info > Enabling MyPlot v1
+2016-12-10 [18:56:37] info > Enabling CodeBlocks v1
+2016-12-10 [18:56:37] info > Enabling CommandBlocks v1.1.1
+2016-12-10 [18:56:37] info > Enabling CustomLogger v1
+2016-12-10 [18:56:37] info > Enabling Execute v1
+2016-12-10 [18:56:37] info > Enabling PluginerCore v1
+2016-12-10 [18:56:37] info > Enabling SignChanger v1
+2016-12-10 [18:56:37] info > Enabling SkriptPE v1
+2016-12-10 [18:56:37] info > Enabling WorldTP v1.0.7
+2016-12-10 [18:56:37] info > Enabling YoutubeSigns v1
+2016-12-10 [18:56:37] info > Enabling GrabBag v2.5.0
+2016-12-10 [18:57:35] info > [CONSOLE: Stopping the server]
+2016-12-10 [18:57:35] info > Disabling CodeBlocks v1
+2016-12-10 [18:57:35] info > Disabling CommandBlocks v1.1.1
+2016-12-10 [18:57:35] info > Disabling CustomLogger v1
+2016-12-10 [18:57:35] info > Disabling DevToolsModified v1.10.0
+2016-12-10 [18:57:35] info > Disabling Execute v1
+2016-12-10 [18:57:35] info > Disabling PluginerCore v1
+2016-12-10 [18:57:35] info > Disabling SignChanger v1
+2016-12-10 [18:57:35] info > Disabling SkriptPE v1
+2016-12-10 [18:57:35] info > Disabling WorldTP v1.0.7
+2016-12-10 [18:57:35] info > Disabling YoutubeSigns v1
+2016-12-10 [18:57:35] info > Disabling GrabBag v2.5.0
+2016-12-10 [18:57:35] info > Disabling MyPlot v1
+2016-12-10 [18:57:45] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-10 [18:57:45] info > Loading source plugin Execute v1
+2016-12-10 [18:57:45] info > Loading source plugin PluginerCore v1
+2016-12-10 [18:57:45] info > Loading source plugin SignChanger v1
+2016-12-10 [18:57:45] info > Loading source plugin SkriptPE v1
+2016-12-10 [18:57:45] info > Loading source plugin WorldTP v1.0.7
+2016-12-10 [18:57:45] info > Loading source plugin YoutubeSigns v1
+2016-12-10 [18:57:45] info > Loading source plugin GrabBag v2.5.0
+2016-12-10 [18:57:45] info > Loading source plugin MyPlot v1
+2016-12-10 [18:57:45] info > [DevTools] Registered folder plugin loader
+2016-12-10 [18:57:45] info > Enabling DevToolsModified v1.10.0
+2016-12-10 [18:57:45] info > Enabling MyPlot v1
+2016-12-10 [18:57:45] info > [MyPlot] Loading MyPlot
+2016-12-10 [18:57:46] info > Preparing level "world"
+2016-12-10 [18:57:46] info > Enabling AttackSpeed v1
+2016-12-10 [18:57:46] info > Enabling Critical v1
+2016-12-10 [18:57:46] info > Enabling CustomSuperflat v1
+2016-12-10 [18:58:07] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-10 [18:58:07] info > Enabling Mentions v1
+2016-12-10 [18:58:07] info > Enabling TapToDo v2.2.1
+2016-12-10 [18:58:07] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-10 [18:58:07] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-10 [18:58:07] info > Enabling TwitterSigns v1
+2016-12-10 [18:58:07] info > Enabling WorldEdit v3.2
+2016-12-10 [18:58:08] info > Enabling ImagicalPlugCreator v1.0
+2016-12-10 [18:58:08] info > Enabling CodeBlocks v1
+2016-12-10 [18:58:08] info > Enabling CommandBlocks v1.1.1
+2016-12-10 [18:58:08] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-10 [18:58:08] info > Enabling CustomLogger v1
+2016-12-10 [18:58:08] info > Enabling Execute v1
+2016-12-10 [18:58:08] info > Enabling PluginerCore v1
+2016-12-10 [18:58:08] info > Enabling SignChanger v1
+2016-12-10 [18:58:08] info > Enabling SkriptPE v1
+2016-12-10 [18:58:08] info > Enabling WorldTP v1.0.7
+2016-12-10 [18:58:08] info > [WorldTP] by Mineboy210 geladen!
+2016-12-10 [18:58:08] info > Enabling YoutubeSigns v1
+2016-12-10 [18:58:08] info > Enabling GrabBag v2.5.0
+2016-12-10 [18:58:08] info > [GrabBag] LibCommon v1.92.0
+2016-12-10 [18:58:08] info > [GrabBag] Enabled 54 features
+2016-12-10 [18:58:09] info > Starting GS4 status listener
+2016-12-10 [18:58:09] info > Setting query port to 19132
+2016-12-10 [18:58:09] info > Query running on 0.0.0.0:19132
+2016-12-10 [18:58:09] info > Default game type: Survival Mode
+2016-12-10 [18:58:09] info > Done (26.912s)! For help, type "help" or "?"
+2016-12-10 [18:58:31] info > [CONSOLE: Stopping the server]
+2016-12-10 [18:58:31] debug > Disabling all plugins
+2016-12-10 [18:58:31] info > Disabling AttackSpeed v1
+2016-12-10 [18:58:31] info > Disabling Critical v1
+2016-12-10 [18:58:31] info > Disabling CustomSuperflat v1
+2016-12-10 [18:58:31] info > Disabling DevTools v1.10.0
+2016-12-10 [18:58:31] info > Disabling Mentions v1
+2016-12-10 [18:58:31] info > Disabling TapToDo v2.2.1
+2016-12-10 [18:58:31] info > [TapToDo] Saving blocks...
+2016-12-10 [18:58:31] info > Disabling TwitterSigns v1
+2016-12-10 [18:58:31] info > [TwitterSigns] Saving signs...
+2016-12-10 [18:58:31] info > [TwitterSigns] Saved all signs.
+2016-12-10 [18:58:31] info > Disabling WorldEdit v3.2
+2016-12-10 [18:58:31] info > Disabling ImagicalPlugCreator v1.0
+2016-12-10 [18:58:31] info > Disabling CodeBlocks v1
+2016-12-10 [18:58:31] info > Disabling CommandBlocks v1.1.1
+2016-12-10 [18:58:31] info > Disabling CustomLogger v1
+2016-12-10 [18:58:31] info > Disabling DevToolsModified v1.10.0
+2016-12-10 [18:58:31] info > Disabling Execute v1
+2016-12-10 [18:58:31] info > Disabling PluginerCore v1
+2016-12-10 [18:58:31] info > Disabling SignChanger v1
+2016-12-10 [18:58:31] info > Disabling SkriptPE v1
+2016-12-10 [18:58:31] info > Disabling WorldTP v1.0.7
+2016-12-10 [18:58:31] info > Disabling YoutubeSigns v1
+2016-12-10 [18:58:31] info > [YoutubeSigns] Saving signs...
+2016-12-10 [18:58:31] info > [YoutubeSigns] Saved all signs.
+2016-12-10 [18:58:31] info > Disabling GrabBag v2.5.0
+2016-12-10 [18:58:31] info > Disabling MyPlot v1
+2016-12-10 [18:58:31] debug > Unloading all levels
+2016-12-10 [18:58:31] info > Unloading level "world"
+2016-12-10 [18:58:31] debug > Removing event handlers
+2016-12-10 [18:58:31] debug > Stopping all tasks
+2016-12-10 [18:58:32] debug > Saving properties
+2016-12-10 [18:58:32] debug > Closing console
+2016-12-10 [18:58:32] debug > Stopping network interfaces
+2016-12-11 [08:57:33] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-11 [08:57:33] info > Loading source plugin Execute v1
+2016-12-11 [08:57:33] info > Loading source plugin PluginerCore v1
+2016-12-11 [08:57:33] info > Loading source plugin SignChanger v1
+2016-12-11 [08:57:33] info > Loading source plugin SkriptPE v1
+2016-12-11 [08:57:33] info > Loading source plugin WorldTP v1.0.7
+2016-12-11 [08:57:33] info > Loading source plugin YoutubeSigns v1
+2016-12-11 [08:57:33] info > Loading source plugin GrabBag v2.5.0
+2016-12-11 [08:57:33] info > Loading source plugin MyPlot v1
+2016-12-11 [08:57:33] info > [DevTools] Registered folder plugin loader
+2016-12-11 [08:57:33] info > Enabling DevToolsModified v1.10.0
+2016-12-11 [08:57:33] info > Enabling MyPlot v1
+2016-12-11 [08:57:33] info > [MyPlot] Loading MyPlot
+2016-12-11 [08:57:34] info > Preparing level "world"
+2016-12-11 [08:57:34] info > Enabling AttackSpeed v1
+2016-12-11 [08:57:34] info > Enabling Critical v1
+2016-12-11 [08:57:34] info > Enabling CustomSuperflat v1
+2016-12-11 [08:57:56] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-11 [08:57:56] info > Enabling Mentions v1
+2016-12-11 [08:57:56] info > Enabling TapToDo v2.2.1
+2016-12-11 [08:57:56] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [08:57:56] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [08:57:56] info > Enabling TwitterSigns v1
+2016-12-11 [08:57:56] info > Enabling WorldEdit v3.2
+2016-12-11 [08:57:56] info > Enabling ImagicalPlugCreator v1.0
+2016-12-11 [08:57:56] info > Enabling CodeBlocks v1
+2016-12-11 [08:57:57] info > Enabling CommandBlocks v1.1.1
+2016-12-11 [08:57:57] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-11 [08:57:57] info > Enabling CustomLogger v1
+2016-12-11 [08:57:57] info > Enabling Execute v1
+2016-12-11 [08:57:57] info > Enabling PluginerCore v1
+2016-12-11 [08:57:57] info > Enabling SignChanger v1
+2016-12-11 [08:57:57] info > Enabling SkriptPE v1
+2016-12-11 [08:57:57] info > Enabling WorldTP v1.0.7
+2016-12-11 [08:57:57] info > [WorldTP] by Mineboy210 geladen!
+2016-12-11 [08:57:57] info > Enabling YoutubeSigns v1
+2016-12-11 [08:57:57] info > Enabling GrabBag v2.5.0
+2016-12-11 [08:57:57] info > [GrabBag] LibCommon v1.92.0
+2016-12-11 [08:57:59] info > [GrabBag] Enabled 54 features
+2016-12-11 [08:57:59] info > Starting GS4 status listener
+2016-12-11 [08:57:59] info > Setting query port to 19132
+2016-12-11 [08:57:59] info > Query running on 0.0.0.0:19132
+2016-12-11 [08:57:59] info > Default game type: Survival Mode
+2016-12-11 [08:57:59] info > Done (33.068s)! For help, type "help" or "?"
+2016-12-11 [08:58:15] critical > Could not pass event 'pocketmine\event\server\ServerCommandEvent' to 'CustomLogger v1': Argument 5 passed to Ad5001\CustomLogger\CustomLogger::translateMsg() must be of the type string, null given, called in C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger\src\Ad5001\CustomLogger\Main.php on line 57 on Ad5001\CustomLogger\Main
+2016-12-11 [08:58:15] critical > TypeError: "Argument 5 passed to Ad5001\CustomLogger\CustomLogger::translateMsg() must be of the type string, null given, called in C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger\src\Ad5001\CustomLogger\Main.php on line 57" (EXCEPTION) in "/plugins/CustomLogger/src/Ad5001/CustomLogger/CustomLogger" at line 88
+2016-12-11 [08:58:15] debug > #0 /src/pocketmine/plugin/MethodEventExecutor(36): Ad5001\CustomLogger\Main->onServerCommand(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [08:58:15] debug > #1 /src/pocketmine/plugin/RegisteredListener(96): pocketmine\plugin\MethodEventExecutor->execute(Ad5001\CustomLogger\Main object, pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [08:58:15] debug > #2 /src/pocketmine/plugin/PluginManager(666): pocketmine\plugin\RegisteredListener->callEvent(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [08:58:15] debug > #3 /src/pocketmine/Server(1806): pocketmine\plugin\PluginManager->callEvent(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [08:58:15] debug > #4 /src/pocketmine/Server(2343): pocketmine\Server->checkConsole(boolean)
+2016-12-11 [08:58:15] debug > #5 /src/pocketmine/Server(2099): pocketmine\Server->tick(boolean)
+2016-12-11 [08:58:15] debug > #6 /src/pocketmine/Server(1981): pocketmine\Server->tickProcessor(boolean)
+2016-12-11 [08:58:15] debug > #7 /src/pocketmine/Server(1600): pocketmine\Server->start(boolean)
+2016-12-11 [08:58:15] debug > #8 /src/pocketmine/PocketMine(483): pocketmine\Server->__construct(pocketmine\CompatibleClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\)
+2016-12-11 [08:58:15] info > [CONSOLE: Stopping the server]
+2016-12-11 [08:58:15] debug > Disabling all plugins
+2016-12-11 [08:58:15] info > Disabling AttackSpeed v1
+2016-12-11 [08:58:15] info > Disabling Critical v1
+2016-12-11 [08:58:15] info > Disabling CustomSuperflat v1
+2016-12-11 [08:58:15] info > Disabling DevTools v1.10.0
+2016-12-11 [08:58:15] info > Disabling Mentions v1
+2016-12-11 [08:58:15] info > Disabling TapToDo v2.2.1
+2016-12-11 [08:58:15] info > [TapToDo] Saving blocks...
+2016-12-11 [08:58:15] info > Disabling TwitterSigns v1
+2016-12-11 [08:58:15] info > [TwitterSigns] Saving signs...
+2016-12-11 [08:58:15] info > [TwitterSigns] Saved all signs.
+2016-12-11 [08:58:15] info > Disabling WorldEdit v3.2
+2016-12-11 [08:58:15] info > Disabling ImagicalPlugCreator v1.0
+2016-12-11 [08:58:15] info > Disabling CodeBlocks v1
+2016-12-11 [08:58:15] info > Disabling CommandBlocks v1.1.1
+2016-12-11 [08:58:15] info > Disabling CustomLogger v1
+2016-12-11 [08:58:15] info > Disabling DevToolsModified v1.10.0
+2016-12-11 [08:58:15] info > Disabling Execute v1
+2016-12-11 [08:58:15] info > Disabling PluginerCore v1
+2016-12-11 [08:58:15] info > Disabling SignChanger v1
+2016-12-11 [08:58:15] info > Disabling SkriptPE v1
+2016-12-11 [08:58:15] info > Disabling WorldTP v1.0.7
+2016-12-11 [08:58:15] info > Disabling YoutubeSigns v1
+2016-12-11 [08:58:15] info > [YoutubeSigns] Saving signs...
+2016-12-11 [08:58:15] info > [YoutubeSigns] Saved all signs.
+2016-12-11 [08:58:15] info > Disabling GrabBag v2.5.0
+2016-12-11 [08:58:15] info > Disabling MyPlot v1
+2016-12-11 [08:58:15] debug > Unloading all levels
+2016-12-11 [08:58:15] info > Unloading level "world"
+2016-12-11 [08:58:16] debug > Removing event handlers
+2016-12-11 [08:58:16] debug > Stopping all tasks
+2016-12-11 [08:58:16] debug > Saving properties
+2016-12-11 [08:58:16] debug > Closing console
+2016-12-11 [08:58:16] debug > Stopping network interfaces
+2016-12-11 [09:01:33] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-11 [09:01:33] info > Loading source plugin Execute v1
+2016-12-11 [09:01:33] info > Loading source plugin PluginerCore v1
+2016-12-11 [09:01:33] info > Loading source plugin SignChanger v1
+2016-12-11 [09:01:33] info > Loading source plugin SkriptPE v1
+2016-12-11 [09:01:33] info > Loading source plugin WorldTP v1.0.7
+2016-12-11 [09:01:33] info > Loading source plugin YoutubeSigns v1
+2016-12-11 [09:01:33] info > Loading source plugin GrabBag v2.5.0
+2016-12-11 [09:01:33] info > Loading source plugin MyPlot v1
+2016-12-11 [09:01:33] info > [DevTools] Registered folder plugin loader
+2016-12-11 [09:01:33] info > Enabling DevToolsModified v1.10.0
+2016-12-11 [09:01:33] info > Enabling MyPlot v1
+2016-12-11 [09:01:33] info > [MyPlot] Loading MyPlot
+2016-12-11 [09:01:33] info > Preparing level "world"
+2016-12-11 [09:01:33] info > Enabling AttackSpeed v1
+2016-12-11 [09:01:33] info > Enabling Critical v1
+2016-12-11 [09:01:33] info > Enabling CustomSuperflat v1
+2016-12-11 [09:01:54] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-11 [09:01:54] info > Enabling Mentions v1
+2016-12-11 [09:01:54] info > Enabling TapToDo v2.2.1
+2016-12-11 [09:01:54] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:01:54] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:01:54] info > Enabling TwitterSigns v1
+2016-12-11 [09:01:54] info > Enabling WorldEdit v3.2
+2016-12-11 [09:01:54] info > Enabling ImagicalPlugCreator v1.0
+2016-12-11 [09:01:54] info > Enabling CodeBlocks v1
+2016-12-11 [09:01:54] info > Enabling CommandBlocks v1.1.1
+2016-12-11 [09:01:54] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-11 [09:01:54] info > Enabling CustomLogger v1
+2016-12-11 [09:01:54] info > Enabling Execute v1
+2016-12-11 [09:01:54] info > Enabling PluginerCore v1
+2016-12-11 [09:01:54] info > Enabling SignChanger v1
+2016-12-11 [09:01:54] info > Enabling SkriptPE v1
+2016-12-11 [09:01:54] info > Enabling WorldTP v1.0.7
+2016-12-11 [09:01:54] info > [WorldTP] by Mineboy210 geladen!
+2016-12-11 [09:01:54] info > Enabling YoutubeSigns v1
+2016-12-11 [09:01:54] info > Enabling GrabBag v2.5.0
+2016-12-11 [09:01:54] info > [GrabBag] LibCommon v1.92.0
+2016-12-11 [09:01:54] info > [GrabBag] Enabled 54 features
+2016-12-11 [09:01:55] info > Starting GS4 status listener
+2016-12-11 [09:01:55] info > Setting query port to 19132
+2016-12-11 [09:01:55] info > Query running on 0.0.0.0:19132
+2016-12-11 [09:01:55] info > Default game type: Survival Mode
+2016-12-11 [09:01:55] info > Done (24.569s)! For help, type "help" or "?"
+2016-12-11 [09:01:55] info > [CONSOLE: Stopping the server]
+2016-12-11 [09:01:55] debug > Disabling all plugins
+2016-12-11 [09:01:55] info > Disabling AttackSpeed v1
+2016-12-11 [09:01:55] info > Disabling Critical v1
+2016-12-11 [09:01:55] info > Disabling CustomSuperflat v1
+2016-12-11 [09:01:55] info > Disabling DevTools v1.10.0
+2016-12-11 [09:01:55] info > Disabling Mentions v1
+2016-12-11 [09:01:55] info > Disabling TapToDo v2.2.1
+2016-12-11 [09:01:55] info > [TapToDo] Saving blocks...
+2016-12-11 [09:01:55] info > Disabling TwitterSigns v1
+2016-12-11 [09:01:55] info > [TwitterSigns] Saving signs...
+2016-12-11 [09:01:55] info > [TwitterSigns] Saved all signs.
+2016-12-11 [09:01:55] info > Disabling WorldEdit v3.2
+2016-12-11 [09:01:55] info > Disabling ImagicalPlugCreator v1.0
+2016-12-11 [09:01:55] info > Disabling CodeBlocks v1
+2016-12-11 [09:01:55] info > Disabling CommandBlocks v1.1.1
+2016-12-11 [09:01:55] info > Disabling CustomLogger v1
+2016-12-11 [09:01:55] info > Disabling DevToolsModified v1.10.0
+2016-12-11 [09:01:55] info > Disabling Execute v1
+2016-12-11 [09:01:55] info > Disabling PluginerCore v1
+2016-12-11 [09:01:55] info > Disabling SignChanger v1
+2016-12-11 [09:01:55] info > Disabling SkriptPE v1
+2016-12-11 [09:01:55] info > Disabling WorldTP v1.0.7
+2016-12-11 [09:01:55] info > Disabling YoutubeSigns v1
+2016-12-11 [09:01:55] info > [YoutubeSigns] Saving signs...
+2016-12-11 [09:01:55] info > [YoutubeSigns] Saved all signs.
+2016-12-11 [09:01:55] info > Disabling GrabBag v2.5.0
+2016-12-11 [09:01:55] info > Disabling MyPlot v1
+2016-12-11 [09:01:55] debug > Unloading all levels
+2016-12-11 [09:01:55] info > Unloading level "world"
+2016-12-11 [09:01:55] debug > Removing event handlers
+2016-12-11 [09:01:55] debug > Stopping all tasks
+2016-12-11 [09:01:56] debug > Saving properties
+2016-12-11 [09:01:56] debug > Closing console
+2016-12-11 [09:01:56] debug > Stopping network interfaces
+2016-12-11 [09:02:40] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-11 [09:02:40] info > Loading source plugin Execute v1
+2016-12-11 [09:02:40] info > Loading source plugin PluginerCore v1
+2016-12-11 [09:02:40] info > Loading source plugin SignChanger v1
+2016-12-11 [09:02:40] info > Loading source plugin SkriptPE v1
+2016-12-11 [09:02:40] info > Loading source plugin WorldTP v1.0.7
+2016-12-11 [09:02:40] info > Loading source plugin YoutubeSigns v1
+2016-12-11 [09:02:40] info > Loading source plugin GrabBag v2.5.0
+2016-12-11 [09:02:40] info > Loading source plugin MyPlot v1
+2016-12-11 [09:02:40] info > [DevTools] Registered folder plugin loader
+2016-12-11 [09:02:40] info > Enabling DevToolsModified v1.10.0
+2016-12-11 [09:02:40] info > Enabling MyPlot v1
+2016-12-11 [09:02:40] info > [MyPlot] Loading MyPlot
+2016-12-11 [09:02:40] info > Preparing level "world"
+2016-12-11 [09:02:40] info > Enabling AttackSpeed v1
+2016-12-11 [09:02:40] info > Enabling Critical v1
+2016-12-11 [09:02:40] info > Enabling CustomSuperflat v1
+2016-12-11 [09:03:02] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-11 [09:03:02] info > Enabling Mentions v1
+2016-12-11 [09:03:02] info > Enabling TapToDo v2.2.1
+2016-12-11 [09:03:02] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:03:02] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:03:02] info > Enabling TwitterSigns v1
+2016-12-11 [09:03:02] info > Enabling WorldEdit v3.2
+2016-12-11 [09:03:02] info > Enabling ImagicalPlugCreator v1.0
+2016-12-11 [09:03:02] info > Enabling CodeBlocks v1
+2016-12-11 [09:03:02] info > Enabling CommandBlocks v1.1.1
+2016-12-11 [09:03:02] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-11 [09:03:02] info > Enabling CustomLogger v1
+2016-12-11 [09:03:02] info > Enabling Execute v1
+2016-12-11 [09:03:02] info > Enabling PluginerCore v1
+2016-12-11 [09:03:02] info > Enabling SignChanger v1
+2016-12-11 [09:03:02] info > Enabling SkriptPE v1
+2016-12-11 [09:03:02] info > Enabling WorldTP v1.0.7
+2016-12-11 [09:03:02] info > [WorldTP] by Mineboy210 geladen!
+2016-12-11 [09:03:02] info > Enabling YoutubeSigns v1
+2016-12-11 [09:03:02] info > Enabling GrabBag v2.5.0
+2016-12-11 [09:03:02] info > [GrabBag] LibCommon v1.92.0
+2016-12-11 [09:03:02] info > [GrabBag] Enabled 54 features
+2016-12-11 [09:03:02] info > Starting GS4 status listener
+2016-12-11 [09:03:02] info > Setting query port to 19132
+2016-12-11 [09:03:02] info > Query running on 0.0.0.0:19132
+2016-12-11 [09:03:02] info > Default game type: Survival Mode
+2016-12-11 [09:03:02] info > Done (24.136s)! For help, type "help" or "?"
+2016-12-11 [09:04:50] info > [CONSOLE: Stopping the server]
+2016-12-11 [09:04:50] debug > Disabling all plugins
+2016-12-11 [09:04:50] info > Disabling AttackSpeed v1
+2016-12-11 [09:04:50] info > Disabling Critical v1
+2016-12-11 [09:04:50] info > Disabling CustomSuperflat v1
+2016-12-11 [09:04:50] info > Disabling DevTools v1.10.0
+2016-12-11 [09:04:50] info > Disabling Mentions v1
+2016-12-11 [09:04:50] info > Disabling TapToDo v2.2.1
+2016-12-11 [09:04:50] info > [TapToDo] Saving blocks...
+2016-12-11 [09:04:50] info > Disabling TwitterSigns v1
+2016-12-11 [09:04:50] info > [TwitterSigns] Saving signs...
+2016-12-11 [09:04:50] info > [TwitterSigns] Saved all signs.
+2016-12-11 [09:04:50] info > Disabling WorldEdit v3.2
+2016-12-11 [09:04:50] info > Disabling ImagicalPlugCreator v1.0
+2016-12-11 [09:04:50] info > Disabling CodeBlocks v1
+2016-12-11 [09:04:50] info > Disabling CommandBlocks v1.1.1
+2016-12-11 [09:04:50] info > Disabling CustomLogger v1
+2016-12-11 [09:04:50] info > Disabling DevToolsModified v1.10.0
+2016-12-11 [09:04:50] info > Disabling Execute v1
+2016-12-11 [09:04:50] info > Disabling PluginerCore v1
+2016-12-11 [09:04:50] info > Disabling SignChanger v1
+2016-12-11 [09:04:50] info > Disabling SkriptPE v1
+2016-12-11 [09:04:50] info > Disabling WorldTP v1.0.7
+2016-12-11 [09:04:50] info > Disabling YoutubeSigns v1
+2016-12-11 [09:04:50] info > [YoutubeSigns] Saving signs...
+2016-12-11 [09:04:50] info > [YoutubeSigns] Saved all signs.
+2016-12-11 [09:04:50] info > Disabling GrabBag v2.5.0
+2016-12-11 [09:04:50] info > Disabling MyPlot v1
+2016-12-11 [09:04:50] debug > Unloading all levels
+2016-12-11 [09:04:50] info > Unloading level "world"
+2016-12-11 [09:04:50] debug > Removing event handlers
+2016-12-11 [09:04:50] debug > Stopping all tasks
+2016-12-11 [09:04:51] debug > Saving properties
+2016-12-11 [09:04:51] debug > Closing console
+2016-12-11 [09:04:51] debug > Stopping network interfaces
+2016-12-11 [09:06:46] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-11 [09:06:46] info > Loading source plugin Execute v1
+2016-12-11 [09:06:46] info > Loading source plugin PluginerCore v1
+2016-12-11 [09:06:46] info > Loading source plugin SignChanger v1
+2016-12-11 [09:06:46] info > Loading source plugin SkriptPE v1
+2016-12-11 [09:06:46] info > Loading source plugin WorldTP v1.0.7
+2016-12-11 [09:06:46] info > Loading source plugin YoutubeSigns v1
+2016-12-11 [09:06:46] info > Loading source plugin GrabBag v2.5.0
+2016-12-11 [09:06:46] info > Loading source plugin MyPlot v1
+2016-12-11 [09:06:46] info > [DevTools] Registered folder plugin loader
+2016-12-11 [09:06:46] info > Enabling DevToolsModified v1.10.0
+2016-12-11 [09:06:46] info > Enabling MyPlot v1
+2016-12-11 [09:06:46] info > [MyPlot] Loading MyPlot
+2016-12-11 [09:06:46] info > Preparing level "world"
+2016-12-11 [09:06:47] info > Enabling AttackSpeed v1
+2016-12-11 [09:06:47] info > Enabling Critical v1
+2016-12-11 [09:06:47] info > Enabling CustomSuperflat v1
+2016-12-11 [09:07:08] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-11 [09:07:08] info > Enabling Mentions v1
+2016-12-11 [09:07:08] info > Enabling TapToDo v2.2.1
+2016-12-11 [09:07:08] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:07:08] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:07:08] info > Enabling TwitterSigns v1
+2016-12-11 [09:07:08] info > Enabling WorldEdit v3.2
+2016-12-11 [09:07:08] info > Enabling ImagicalPlugCreator v1.0
+2016-12-11 [09:07:08] info > Enabling CodeBlocks v1
+2016-12-11 [09:07:08] info > Enabling CommandBlocks v1.1.1
+2016-12-11 [09:07:08] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-11 [09:07:08] info > Enabling CustomLogger v1
+2016-12-11 [09:07:08] info > Enabling Execute v1
+2016-12-11 [09:07:08] info > Enabling PluginerCore v1
+2016-12-11 [09:07:08] info > Enabling SignChanger v1
+2016-12-11 [09:07:08] info > Enabling SkriptPE v1
+2016-12-11 [09:07:08] info > Enabling WorldTP v1.0.7
+2016-12-11 [09:07:08] info > [WorldTP] by Mineboy210 geladen!
+2016-12-11 [09:07:08] info > Enabling YoutubeSigns v1
+2016-12-11 [09:07:08] info > Enabling GrabBag v2.5.0
+2016-12-11 [09:07:08] info > [GrabBag] LibCommon v1.92.0
+2016-12-11 [09:07:08] info > [GrabBag] Enabled 54 features
+2016-12-11 [09:07:09] info > Starting GS4 status listener
+2016-12-11 [09:07:09] info > Setting query port to 19132
+2016-12-11 [09:07:09] info > Query running on 0.0.0.0:19132
+2016-12-11 [09:07:09] info > Default game type: Survival Mode
+2016-12-11 [09:07:09] info > Done (25.872s)! For help, type "help" or "?"
+2016-12-11 [09:07:24] critical > Could not pass event 'pocketmine\event\server\ServerCommandEvent' to 'CustomLogger v1': Class Ad5001\CustomLogger\TextFormat not found on Ad5001\CustomLogger\Main
+2016-12-11 [09:07:24] critical > ClassNotFoundException: "Class Ad5001\CustomLogger\TextFormat not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2016-12-11 [09:07:24] debug > #0 /plugins/CustomLogger/src/Ad5001/CustomLogger/Main(65): spl_autoload_call(string Ad5001\CustomLogger\TextFormat)
+2016-12-11 [09:07:24] debug > #1 /src/pocketmine/plugin/MethodEventExecutor(36): Ad5001\CustomLogger\Main->onServerCommand(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:24] debug > #2 /src/pocketmine/plugin/RegisteredListener(96): pocketmine\plugin\MethodEventExecutor->execute(Ad5001\CustomLogger\Main object, pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:24] debug > #3 /src/pocketmine/plugin/PluginManager(666): pocketmine\plugin\RegisteredListener->callEvent(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:24] debug > #4 /src/pocketmine/Server(1806): pocketmine\plugin\PluginManager->callEvent(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:24] debug > #5 /src/pocketmine/Server(2343): pocketmine\Server->checkConsole(boolean)
+2016-12-11 [09:07:24] debug > #6 /src/pocketmine/Server(2099): pocketmine\Server->tick(boolean)
+2016-12-11 [09:07:24] debug > #7 /src/pocketmine/Server(1981): pocketmine\Server->tickProcessor(boolean)
+2016-12-11 [09:07:24] debug > #8 /src/pocketmine/Server(1600): pocketmine\Server->start(boolean)
+2016-12-11 [09:07:24] debug > #9 /src/pocketmine/PocketMine(483): pocketmine\Server->__construct(pocketmine\CompatibleClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\)
+2016-12-11 [09:07:24] info > Usage: /echo [text]
+2016-12-11 [09:07:55] critical > Could not pass event 'pocketmine\event\server\ServerCommandEvent' to 'CustomLogger v1': Class Ad5001\CustomLogger\TextFormat not found on Ad5001\CustomLogger\Main
+2016-12-11 [09:07:55] critical > ClassNotFoundException: "Class Ad5001\CustomLogger\TextFormat not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2016-12-11 [09:07:55] debug > #0 /plugins/CustomLogger/src/Ad5001/CustomLogger/Main(65): spl_autoload_call(string Ad5001\CustomLogger\TextFormat)
+2016-12-11 [09:07:55] debug > #1 /src/pocketmine/plugin/MethodEventExecutor(36): Ad5001\CustomLogger\Main->onServerCommand(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:55] debug > #2 /src/pocketmine/plugin/RegisteredListener(96): pocketmine\plugin\MethodEventExecutor->execute(Ad5001\CustomLogger\Main object, pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:55] debug > #3 /src/pocketmine/plugin/PluginManager(666): pocketmine\plugin\RegisteredListener->callEvent(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:55] debug > #4 /src/pocketmine/Server(1806): pocketmine\plugin\PluginManager->callEvent(pocketmine\event\server\ServerCommandEvent object)
+2016-12-11 [09:07:55] debug > #5 /src/pocketmine/Server(2343): pocketmine\Server->checkConsole(boolean)
+2016-12-11 [09:07:55] debug > #6 /src/pocketmine/Server(2099): pocketmine\Server->tick(boolean)
+2016-12-11 [09:07:55] debug > #7 /src/pocketmine/Server(1981): pocketmine\Server->tickProcessor(boolean)
+2016-12-11 [09:07:55] debug > #8 /src/pocketmine/Server(1600): pocketmine\Server->start(boolean)
+2016-12-11 [09:07:55] debug > #9 /src/pocketmine/PocketMine(483): pocketmine\Server->__construct(pocketmine\CompatibleClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\)
+2016-12-11 [09:07:55] info > [CONSOLE: Stopping the server]
+2016-12-11 [09:07:55] debug > Disabling all plugins
+2016-12-11 [09:07:55] info > Disabling AttackSpeed v1
+2016-12-11 [09:07:55] info > Disabling Critical v1
+2016-12-11 [09:07:55] info > Disabling CustomSuperflat v1
+2016-12-11 [09:07:55] info > Disabling DevTools v1.10.0
+2016-12-11 [09:07:55] info > Disabling Mentions v1
+2016-12-11 [09:07:55] info > Disabling TapToDo v2.2.1
+2016-12-11 [09:07:55] info > [TapToDo] Saving blocks...
+2016-12-11 [09:07:55] info > Disabling TwitterSigns v1
+2016-12-11 [09:07:55] info > [TwitterSigns] Saving signs...
+2016-12-11 [09:07:55] info > [TwitterSigns] Saved all signs.
+2016-12-11 [09:07:55] info > Disabling WorldEdit v3.2
+2016-12-11 [09:07:55] info > Disabling ImagicalPlugCreator v1.0
+2016-12-11 [09:07:55] info > Disabling CodeBlocks v1
+2016-12-11 [09:07:55] info > Disabling CommandBlocks v1.1.1
+2016-12-11 [09:07:55] info > Disabling CustomLogger v1
+2016-12-11 [09:07:55] info > Disabling DevToolsModified v1.10.0
+2016-12-11 [09:07:55] info > Disabling Execute v1
+2016-12-11 [09:07:55] info > Disabling PluginerCore v1
+2016-12-11 [09:07:55] info > Disabling SignChanger v1
+2016-12-11 [09:07:55] info > Disabling SkriptPE v1
+2016-12-11 [09:07:55] info > Disabling WorldTP v1.0.7
+2016-12-11 [09:07:55] info > Disabling YoutubeSigns v1
+2016-12-11 [09:07:55] info > [YoutubeSigns] Saving signs...
+2016-12-11 [09:07:55] info > [YoutubeSigns] Saved all signs.
+2016-12-11 [09:07:55] info > Disabling GrabBag v2.5.0
+2016-12-11 [09:07:55] info > Disabling MyPlot v1
+2016-12-11 [09:07:55] debug > Unloading all levels
+2016-12-11 [09:07:55] info > Unloading level "world"
+2016-12-11 [09:07:55] debug > Removing event handlers
+2016-12-11 [09:07:55] debug > Stopping all tasks
+2016-12-11 [09:07:56] debug > Saving properties
+2016-12-11 [09:07:56] debug > Closing console
+2016-12-11 [09:07:56] debug > Stopping network interfaces
+2016-12-11 [09:08:37] critical > TypeError: "Argument 5 passed to Ad5001\CustomLogger\CustomLogger::translateMsg() must be of the type string, null given, called in C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger\src\Ad5001\CustomLogger\Main.php on line 53" (EXCEPTION) in "/plugins/CustomLogger/src/Ad5001/CustomLogger/CustomLogger" at line 90
+2016-12-11 [09:08:37] debug > #0 /plugins/DevTools_v1.10.0.phar/src/FolderPluginLoader/FolderPluginLoader(115): Ad5001\CustomLogger\Main->onLoad(boolean)
+2016-12-11 [09:08:37] debug > #1 /plugins/DevTools_v1.10.0.phar/src/FolderPluginLoader/FolderPluginLoader(66): FolderPluginLoader\FolderPluginLoader->initPlugin(Ad5001\CustomLogger\Main object, pocketmine\plugin\PluginDescription object, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger)
+2016-12-11 [09:08:37] debug > #2 /src/pocketmine/plugin/PluginManager(151): FolderPluginLoader\FolderPluginLoader->loadPlugin(string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger)
+2016-12-11 [09:08:37] debug > #3 /src/pocketmine/plugin/PluginManager(292): pocketmine\plugin\PluginManager->loadPlugin(string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\CustomLogger, array Array())
+2016-12-11 [09:08:37] debug > #4 /plugins/DevTools_v1.10.0.phar/src/DevTools/DevTools(45): pocketmine\plugin\PluginManager->loadPlugins(string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\, array Array())
+2016-12-11 [09:08:37] debug > #5 /src/pocketmine/plugin/PluginBase(86): DevTools\DevTools->onEnable(boolean)
+2016-12-11 [09:08:37] debug > #6 /src/pocketmine/plugin/PharPluginLoader(123): pocketmine\plugin\PluginBase->setEnabled(boolean 1)
+2016-12-11 [09:08:37] debug > #7 /src/pocketmine/plugin/PluginManager(561): pocketmine\plugin\PharPluginLoader->enablePlugin(DevTools\DevTools object)
+2016-12-11 [09:08:37] debug > #8 /src/pocketmine/Server(1796): pocketmine\plugin\PluginManager->enablePlugin(DevTools\DevTools object)
+2016-12-11 [09:08:37] debug > #9 /src/pocketmine/Server(1782): pocketmine\Server->enablePlugin(DevTools\DevTools object)
+2016-12-11 [09:08:37] debug > #10 /src/pocketmine/Server(1531): pocketmine\Server->enablePlugins(integer 0)
+2016-12-11 [09:08:37] debug > #11 /src/pocketmine/PocketMine(483): pocketmine\Server->__construct(pocketmine\CompatibleClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\, string C:\Users\ad500\Downloads\ImagicalMine\ImagicalMine-\plugins\)
+2016-12-11 [09:08:37] info > Disabling DevTools v1.10.0
+2016-12-11 [09:08:37] info > Preparing level "world"
+2016-12-11 [09:08:37] info > Enabling AttackSpeed v1
+2016-12-11 [09:08:37] info > Enabling Critical v1
+2016-12-11 [09:08:37] info > Enabling CustomSuperflat v1
+2016-12-11 [09:08:59] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-11 [09:08:59] info > Enabling Mentions v1
+2016-12-11 [09:08:59] info > Enabling TapToDo v2.2.1
+2016-12-11 [09:08:59] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:08:59] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:08:59] info > Enabling TwitterSigns v1
+2016-12-11 [09:08:59] info > Enabling WorldEdit v3.2
+2016-12-11 [09:08:59] info > Enabling ImagicalPlugCreator v1.0
+2016-12-11 [09:08:59] info > Enabling CodeBlocks v1
+2016-12-11 [09:08:59] info > Enabling CommandBlocks v1.1.1
+2016-12-11 [09:08:59] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-11 [09:08:59] info > Starting GS4 status listener
+2016-12-11 [09:08:59] info > Setting query port to 19132
+2016-12-11 [09:08:59] info > Query running on 0.0.0.0:19132
+2016-12-11 [09:08:59] info > Default game type: Survival Mode
+2016-12-11 [09:08:59] info > Done (23.755s)! For help, type "help" or "?"
+2016-12-11 [09:09:07] info > [CONSOLE: Stopping the server]
+2016-12-11 [09:09:07] debug > Disabling all plugins
+2016-12-11 [09:09:07] info > Disabling AttackSpeed v1
+2016-12-11 [09:09:07] info > Disabling Critical v1
+2016-12-11 [09:09:07] info > Disabling CustomSuperflat v1
+2016-12-11 [09:09:07] info > Disabling Mentions v1
+2016-12-11 [09:09:07] info > Disabling TapToDo v2.2.1
+2016-12-11 [09:09:07] info > [TapToDo] Saving blocks...
+2016-12-11 [09:09:07] info > Disabling TwitterSigns v1
+2016-12-11 [09:09:07] info > [TwitterSigns] Saving signs...
+2016-12-11 [09:09:07] info > [TwitterSigns] Saved all signs.
+2016-12-11 [09:09:07] info > Disabling WorldEdit v3.2
+2016-12-11 [09:09:07] info > Disabling ImagicalPlugCreator v1.0
+2016-12-11 [09:09:07] info > Disabling CodeBlocks v1
+2016-12-11 [09:09:07] info > Disabling CommandBlocks v1.1.1
+2016-12-11 [09:09:07] debug > Unloading all levels
+2016-12-11 [09:09:07] info > Unloading level "world"
+2016-12-11 [09:09:07] debug > Removing event handlers
+2016-12-11 [09:09:07] debug > Stopping all tasks
+2016-12-11 [09:09:08] debug > Saving properties
+2016-12-11 [09:09:08] debug > Closing console
+2016-12-11 [09:09:08] debug > Stopping network interfaces
+2016-12-11 [09:09:23] info > Loading source plugin DevToolsModified v1.10.0
+2016-12-11 [09:09:23] info > Loading source plugin Execute v1
+2016-12-11 [09:09:23] info > Loading source plugin PluginerCore v1
+2016-12-11 [09:09:23] info > Loading source plugin SignChanger v1
+2016-12-11 [09:09:23] info > Loading source plugin SkriptPE v1
+2016-12-11 [09:09:23] info > Loading source plugin WorldTP v1.0.7
+2016-12-11 [09:09:23] info > Loading source plugin YoutubeSigns v1
+2016-12-11 [09:09:23] info > Loading source plugin GrabBag v2.5.0
+2016-12-11 [09:09:23] info > Loading source plugin MyPlot v1
+2016-12-11 [09:09:23] info > [DevTools] Registered folder plugin loader
+2016-12-11 [09:09:23] info > Enabling DevToolsModified v1.10.0
+2016-12-11 [09:09:23] info > Enabling MyPlot v1
+2016-12-11 [09:09:23] info > [MyPlot] Loading MyPlot
+2016-12-11 [09:09:23] info > Preparing level "world"
+2016-12-11 [09:09:23] info > Enabling AttackSpeed v1
+2016-12-11 [09:09:23] info > Enabling Critical v1
+2016-12-11 [09:09:23] info > Enabling CustomSuperflat v1
+2016-12-11 [09:09:44] info > [CustomSuperflat] Enabled ! Thanks for choosing CustomSuperflat ! Gloabaly,  servers are running CustomSuperflat
+2016-12-11 [09:09:44] info > Enabling Mentions v1
+2016-12-11 [09:09:44] info > Enabling TapToDo v2.2.1
+2016-12-11 [09:09:44] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:09:44] warning > [TapToDo] Could not load block in level Hub because that level is not loaded.
+2016-12-11 [09:09:44] info > Enabling TwitterSigns v1
+2016-12-11 [09:09:44] info > Enabling WorldEdit v3.2
+2016-12-11 [09:09:44] info > Enabling ImagicalPlugCreator v1.0
+2016-12-11 [09:09:44] info > Enabling CodeBlocks v1
+2016-12-11 [09:09:44] info > Enabling CommandBlocks v1.1.1
+2016-12-11 [09:09:44] info > [CommandBlocks] CommandBlocks enabled!
+2016-12-11 [09:09:44] info > Enabling CustomLogger v1
+2016-12-11 [09:09:44] info > Enabling Execute v1
+2016-12-11 [09:09:44] info > Enabling PluginerCore v1
+2016-12-11 [09:09:44] info > Enabling SignChanger v1
+2016-12-11 [09:09:44] info > Enabling SkriptPE v1
+2016-12-11 [09:09:44] info > Enabling WorldTP v1.0.7
+2016-12-11 [09:09:44] info > [WorldTP] by Mineboy210 geladen!
+2016-12-11 [09:09:44] info > Enabling YoutubeSigns v1
+2016-12-11 [09:09:44] info > Enabling GrabBag v2.5.0
+2016-12-11 [09:09:44] info > [GrabBag] LibCommon v1.92.0
+2016-12-11 [09:09:45] info > [GrabBag] Enabled 54 features
+2016-12-11 [09:09:45] info > Starting GS4 status listener
+2016-12-11 [09:09:45] info > Setting query port to 19132
+2016-12-11 [09:09:45] info > Query running on 0.0.0.0:19132
+2016-12-11 [09:09:45] info > Default game type: Survival Mode
+2016-12-11 [09:09:45] info > Done (24.6s)! For help, type "help" or "?"
+2016-12-11 [09:09:53] info > Unknown command. Try /help for a list of commands
+2016-12-11 [09:09:58] info > This server is running PocketMine-MP 1.6.1dev 「Unleashed」 implementing API version 2.1.0 for Minecraft: PE v0.16.0.5 alpha (protocol version 91)
+2016-12-11 [09:10:22] info > Unknown command. Try /help for a list of commands
