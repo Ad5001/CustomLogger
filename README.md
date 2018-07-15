@@ -1,3 +1,4 @@
+## This repository was moved to [git.ad5001.eu](https://git.ad5001.eu/Ad5001/CustomLogger)
 # CustomLogger
 CustomLogger is a styliser for PocketMine servers loggers.
 <br />Download the lastest version, drop it into your plugin folder, restart your server, and you will see your logger changed !
